@@ -1,0 +1,75 @@
+1
+Mark's Project
+apartment
+84 Somerset Way, Green Point, Cape Town
+23
+2376.54
+1968.57
+30/04/2021
+finalised
+22/04/2021
+architect
+John Smith
+0113758376
+john.smith@mail.com
+76 Highlands Drive, Jhb
+contractor
+Mike Brown
+0217865483
+mike.brown@mail.com
+34 Main Street, Durban
+customer
+Pete Green
+0127834973
+pete.green@mail.com
+84 Oxford Street, Jhb
+2
+John's Project
+house
+12 New Rd, Hyde Park, Jhb
+42
+57684.34
+4563.12
+20/06/2021
+not finalised
+03/03/2021
+architect
+Peter van der Merwe
+0112849573
+peter.vdmerwe@mail.com
+23 Ocean Drive, Cape Town
+contractor
+Neil Simon
+01275483473
+neil.simon@mail.com
+98 Mandela Way, Jhb
+customer
+Alice Kruger
+01138475933
+alice.kruger@mail.com
+58 Gordon Street, Jhb
+3
+Lee's Project
+store
+99 Old Rd, Braamfontein, Jhb
+167
+20000000
+1500000
+26/09/2021
+not finalised
+00/00/0000
+architect
+Johan van Zyl
+0118367409
+johan.vzyl@gmail.com
+84 Hardy Road, Pretoria
+contractor
+Billy Jean
+0129387474
+billy.jean@mail.com
+1 Apple Rd, Jhb
+customer
+Clive Barker
+01184639540
+clive.barker@mail.com
+55 Pringle Way, East London
