@@ -1,5 +1,5 @@
 # Capstone-Project-III
-Java OOP Project that makes use of Refactoring, exception handling and Text I/O
+Java OOP Project that makes use of refactoring, exception handling and Text I/O
 
 The third version of the initial Capstone Project incorporates exception handling, refactoring and text i/o in order to improve the project. A Javadoc has also been generated for the program.
 
